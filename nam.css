@@ -1,0 +1,36 @@
+.fixed {
+    position: fixed;
+    bottom: 40;
+    width: 310;
+}
+h1 {
+    text-align: center;
+    color: #00f7ff;
+    text-decoration: underline;
+}
+p {
+    color: purple;
+    font-size: 30;
+}
+div {
+    background-color: gray;
+}
+.secondimg {
+    margin-top:2000px;
+    margin-left:300px;
+}
+p2 {
+    font-size: 40;
+}
+.firstimg {
+    width:90px;
+    margin-left:15px;
+    float: right;
+}
+.firstimg2 {
+    width:100px;
+    margin-left: 100px;
+}
+.firstimg3 {
+    width:200px;
+}
